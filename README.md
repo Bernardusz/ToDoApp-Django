@@ -55,10 +55,10 @@ npm install
 npm run dev
 ```
 
-✔ Usage
+## ✔ Usage
 1. Register a new user
 2. Login to recieve JWT Token
 3. Manage Tasks (Add, Toggle, Delete)
 
-Remember 🌠!
+## Remember 🌠!
 > *"Sometimes being confused, mean you are learning something !" - Bernardusz, made with confusion 🐧💀*
