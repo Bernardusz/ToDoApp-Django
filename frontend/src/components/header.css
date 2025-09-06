@@ -1,0 +1,14 @@
+header{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    background-color: #1b1b1b;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+header h3{
+    margin-left: 5%;
+}
